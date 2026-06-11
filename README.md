@@ -25,21 +25,21 @@ This is a list of different open-source video games and commercial video games o
 
 ## Action games
 
-- **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
+- **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia) **Language: C++**
 
 ## Adventure games
 
-- **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - A zombie adventure, escape room, with twists. [[source]](https://github.com/larpon/DeadAscend)
+- **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - A zombie adventure, escape room, with twists. [[source]](https://github.com/larpon/DeadAscend) **Lannguage: C++ (Qt/QML)**
 
-- **[Endless Sky](https://endless-sky.github.io)** - Space exploration, trading, and combat game. [[source]](https://github.com/endless-sky/endless-sky)
+- **[Endless Sky](https://endless-sky.github.io)** - Space exploration, trading, and combat game. [[source]](https://github.com/endless-sky/endless-sky) **Language: C++**
 
-- **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. [[source]](https://github.com/pioneerspacesim/pioneer)
+- **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. [[source]](https://github.com/pioneerspacesim/pioneer) **Language: C++**
 
-- **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm)
+- **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [[source]](https://github.com/scummvm/scummvm) **Language: C++**
 
-- **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile *[Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)* into human-readable and modifiable source code. [[source]](https://github.com/zeldaret/tp)
+- **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile *[Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)* into human-readable and modifiable source code. [[source]](https://github.com/zeldaret/tp) **Language: C**
 
-- **Zelda 3** - A reverse engineered clone of *[The Legend of Zelda: A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)*. [[source]](https://github.com/snesrev/zelda3)
+- **Zelda 3** - A reverse engineered clone of *[The Legend of Zelda: A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)*. [[source]](https://github.com/snesrev/zelda3) **Language: C**
 
 ## Business and Tycoon games
 
