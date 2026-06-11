@@ -77,83 +77,83 @@ This is a list of different open-source video games and commercial video games o
 
 ## First-Person games
 
-- **[.kkrieger](https://en.wikipedia.org/wiki/.kkrieger)** - A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of [Farbrausch](https://en.wikipedia.org/wiki/Farbrausch)), which won first place in the 96k game competition at [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint_(demoparty)) in April 2004. [[source]](https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger)
+- **[.kkrieger](https://en.wikipedia.org/wiki/.kkrieger)** - A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of [Farbrausch](https://en.wikipedia.org/wiki/Farbrausch)), which won first place in the 96k game competition at [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint_(demoparty)) in April 2004. [[source]](https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger) **Language: C++**
 
-- **[Anarch](https://drummyfish.gitlab.io/anarch)** - This isn't a 90s style retro shooter, this is a 90s shooter. [[source]](https://gitlab.com/drummyfish/anarch)
+- **[Anarch](https://drummyfish.gitlab.io/anarch)** - This isn't a 90s style retro shooter, this is a 90s shooter. [[source]](https://gitlab.com/drummyfish/anarch) **Language: C**
 
-- **[AssaultCube](https://assault.cubers.net)** - A FREE, multiplayer, first-person shooter game. [[source]](https://github.com/assaultcube/AC) **Engine: [CUBE](http://cubeengine.com)** [[source]](https://github.com/bsegovia/cube)
+- **[AssaultCube](https://assault.cubers.net)** - A FREE, multiplayer, first-person shooter game. [[source]](https://github.com/assaultcube/AC) **Engine: [CUBE](http://cubeengine.com)** [[source]](https://github.com/bsegovia/cube) **Language: C++**
 
-- **[Cube 2: Sauerbraten](http://sauerbraten.org)** - A free multiplayer & singleplayer first person shooter. [[source]](https://sourceforge.net/projects/sauerbraten) **Engine: [CUBE](https://www.redeclipse.net)** [[source]](https://github.com/bsegovia/cube)
+- **[Cube 2: Sauerbraten](http://sauerbraten.org)** - A free multiplayer & singleplayer first person shooter. [[source]](https://sourceforge.net/projects/sauerbraten) **Engine: [CUBE](https://www.redeclipse.net)** [[source]](https://github.com/bsegovia/cube) **Language: C++**
 
-- **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [[source]](https://github.com/kevinbentley/Descent3)
+- **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [[source]](https://github.com/kevinbentley/Descent3) **Language: C++**
 
-- **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot)
+- **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [[source]](https://codeberg.org/liblast/liblast) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot) **Language: GDScript**
 
-- **[Red Eclipse](https://www.redeclipse.net)** - An old-school arena shooter for the modern age. [[source]](https://github.com/redeclipse/base) **Engine: [CUBE](https://www.redeclipse.net)** [[source]](https://github.com/bsegovia/cube)
+- **[Red Eclipse](https://www.redeclipse.net)** - An old-school arena shooter for the modern age. [[source]](https://github.com/redeclipse/base) **Engine: [CUBE](https://www.redeclipse.net)** [[source]](https://github.com/bsegovia/cube) **Language: C++**
 
-- **Surreal Engine** - [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament) Engine Reimplementation. [[source]](https://github.com/dpjudas/SurrealEngine)
+- **Surreal Engine** - [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament) Engine Reimplementation. [[source]](https://github.com/dpjudas/SurrealEngine) **Language: C++**
 
-- **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk)
+- **[The Dark Mod](https://www.thedarkmod.com/main)** - First-person stealth video game. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk) **Language: C++**
 
-- **[Xonotic](https://xonotic.org)** - An addictive arena-style first person shooter with crisp movement and a wide array of weapons. [[source]](https://gitlab.com/xonotic/xonotic)
+- **[Xonotic](https://xonotic.org)** - An addictive arena-style first person shooter with crisp movement and a wide array of weapons. [[source]](https://gitlab.com/xonotic/xonotic) **Language: C++**
 
 ### *[Aliens Versus Predator](https://en.wikipedia.org/wiki/Aliens_Versus_Predator_(1999_video_game)) game source ports*
 
-- **AvP Forever** - Project focuses on maintenance of available source code for *Aliens versus Predator (1999)* game. [[source]](https://github.com/dreamer/avp-forever)
+- **AvP Forever** - Project focuses on maintenance of available source code for *Aliens versus Predator (1999)* game. [[source]](https://github.com/dreamer/avp-forever) **Language: C**
 
-- **avpmp** - Fork of the original AvP port for Linux, expanded with multiplayer and other features. [[source]](https://github.com/mbait/avpmp)
+- **avpmp** - Fork of the original AvP port for Linux, expanded with multiplayer and other features. [[source]](https://github.com/mbait/avpmp) **Language: C**
 
-- **NakedAVP** - A port of *Aliens vs Predator Classic (2000)* to modern systems, based on the icculus port for Linux, macOS and Windows using [SDL3](https://libsdl.org/) ([[source]](https://github.com/libsdl-org/SDL)). [[source]](https://github.com/atsb/NakedAVP)
+- **NakedAVP** - A port of *Aliens vs Predator Classic (2000)* to modern systems, based on the icculus port for Linux, macOS and Windows using [SDL3](https://libsdl.org/) ([[source]](https://github.com/libsdl-org/SDL)). [[source]](https://github.com/atsb/NakedAVP) **Language: C**
 
 ### *[Build engine](https://en.wikipedia.org/wiki/Build_(game_engine)) [[source]](https://advsys.net/ken/buildsrc) based games*
 
-- **[Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D)** - By [3D Realms Entertainment, Inc](https://en.wikipedia.org/wiki/3D_Realms). [[source]](https://github.com/videogamepreservation/dukenukem3d)
+- **[Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D)** - By [3D Realms Entertainment, Inc](https://en.wikipedia.org/wiki/3D_Realms). [[source]](https://github.com/videogamepreservation/dukenukem3d) **Language: C**
 
-- **Shadow Warrior** - Official source release for [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)). [[source]](https://github.com/Azarien/shadow-warrior)
+- **Shadow Warrior** - Official source release for [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)). [[source]](https://github.com/Azarien/shadow-warrior) **Language: C**
 
 #### *Source Ports and Re-Implementations*
 
-- **BuildGDX** - [[source]](https://github.com/vogonsorg/BuildGDX)
+- **BuildGDX** - [[source]](https://github.com/vogonsorg/BuildGDX) **Language: Java**
 
-- **[EDuke32](https://voidpoint.io/terminx/eduke32)** - The official EDuke32 Git repository: home to the source code to EDuke32, [Ion Fury](https://en.wikipedia.org/wiki/Ion_Fury), VoidSW, Mapster32, and related projects based on the Build Engine.
+- **[EDuke32](https://voidpoint.io/terminx/eduke32)** - The official EDuke32 Git repository: home to the source code to EDuke32, [Ion Fury](https://en.wikipedia.org/wiki/Ion_Fury), VoidSW, Mapster32, and related projects based on the Build Engine. **Language: C**
 
-- **[JFDuke3D](https://www.jonof.id.au/jfduke3d)** - Port of the [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) game [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D) [[source]](https://github.com/jonof/jfduke3d)
+- **[JFDuke3D](https://www.jonof.id.au/jfduke3d)** - Port of the [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) game [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D) [[source]](https://github.com/jonof/jfduke3d) **Language: C**
 
-- **[JFShadowWarrior](https://www.jonof.id.au/jfsw)** - Port of the [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) game [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)).
+- **[JFShadowWarrior](https://www.jonof.id.au/jfsw)** - Port of the [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) game [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)). **Language: C**
 
-- **[NBlood](https://github.com/NBlood/NBlood)** - Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhume d) [[source]](https://github.com/NBlood/NBlood)
+- **[NBlood](https://github.com/NBlood/NBlood)** - Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhume d) [[source]](https://github.com/NBlood/NBlood) **Language: C**
 
-- **NuBuildGDX** -  A fork of BuildGDX aiming for stability, bug fixing and performance. [[source]](https://github.com/atsb/NuBuildGDX)
+- **NuBuildGDX** -  A fork of BuildGDX aiming for stability, bug fixing and performance. [[source]](https://github.com/atsb/NuBuildGDX) **Language: Java**
 
-- **[Raze](https://github.com/ZDoom/Raze)** - Build engine port backed by GZDoom tech. Currently supports [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D), [Blood](https://en.wikipedia.org/wiki/Blood_(video_game)), [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)), [Redneck Rampage](https://en.wikipedia.org/wiki/Redneck_Rampage) and [Powerslave](https://en.wikipedia.org/wiki/PowerSlave)/Exhumed.
+- **[Raze](https://github.com/ZDoom/Raze)** - Build engine port backed by GZDoom tech. Currently supports [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D), [Blood](https://en.wikipedia.org/wiki/Blood_(video_game)), [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_(1997_video_game)), [Redneck Rampage](https://en.wikipedia.org/wiki/Redneck_Rampage) and [Powerslave](https://en.wikipedia.org/wiki/PowerSlave)/Exhumed. **Language: C++**
 
 ### *[id Software](https://en.wikipedia.org/wiki/Id_Software) Games*
 
-- **[Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))** - [[source]](https://github.com/id-Software/DOOM)
+- **[Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))** - [[source]](https://github.com/id-Software/DOOM) **Language: C**
 
-- **DOOM64-RE** - Complete reverse engineering of [Doom 64](https://en.wikipedia.org/wiki/Doom_64). [[source]](https://github.com/Erick194/DOOM64-RE)
+- **DOOM64-RE** - Complete reverse engineering of [Doom 64](https://en.wikipedia.org/wiki/Doom_64). [[source]](https://github.com/Erick194/DOOM64-RE) **Language: C**
 
-- **[Doom 3](https://en.wikipedia.org/wiki/Doom_3) BFG Edition** - [[source]](https://github.com/id-Software/DOOM-3-BFG)
+- **[Doom 3](https://en.wikipedia.org/wiki/Doom_3) BFG Edition** - [[source]](https://github.com/id-Software/DOOM-3-BFG) **Language: C++**
 
-- **[Quake](https://en.wikipedia.org/wiki/Quake_(video_game))** - [[source]](https://github.com/id-Software/Quake)
+- **[Quake](https://en.wikipedia.org/wiki/Quake_(video_game))** - [[source]](https://github.com/id-Software/Quake) **Language: C**
 
-- **[Quake II](https://en.wikipedia.org/wiki/Quake_II)** - [[source]](https://github.com/id-Software/Quake-2)
+- **[Quake II](https://en.wikipedia.org/wiki/Quake_II)** - [[source]](https://github.com/id-Software/Quake-2) **Language: C**
 
-- **[Quake III Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)** - [[source]](https://github.com/id-Software/Quake-III-Arena)
+- **[Quake III Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)** - [[source]](https://github.com/id-Software/Quake-III-Arena) **Language: C**
 
-- **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)** - [[source]](https://github.com/id-Software/wolf3d)
+- **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)** - [[source]](https://github.com/id-Software/wolf3d) **Language: C**
 
 #### *Source Ports and Re-Implementations*
 
 - **[Catacomb 3-D](https://en.wikipedia.org/wiki/Catacomb_3-D)**
 
-  - **CatacombGL** -  A source port of Catacomb 3D and the Catacomb Adventure series. [[source]](https://github.com/ArnoAnsems/CatacombGL)
+  - **CatacombGL** -  A source port of Catacomb 3D and the Catacomb Adventure series. [[source]](https://github.com/ArnoAnsems/CatacombGL) **Language: C**
 
 - **[Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))**
 
-  - **[Chocolate Doom](https://www.chocolate-doom.org)** - A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [[source]](https://github.com/chocolate-doom/chocolate-doom)
+  - **[Chocolate Doom](https://www.chocolate-doom.org)** - A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [[source]](https://github.com/chocolate-doom/chocolate-doom) **Language: C/C++**
 
-  - **[ZDoom](https://zdoom.org)** - A feature centric port for all Doom engine games. [[source]](https://github.com/UZDoom/UZDoom)
+  - **[ZDoom](https://zdoom.org)** - A feature centric port for all Doom engine games. [[source]](https://github.com/UZDoom/UZDoom) **Language: C/C++**
 
 - **[Quake](https://en.wikipedia.org/wiki/Quake_(video_game))**
 
