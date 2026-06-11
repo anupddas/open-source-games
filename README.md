@@ -43,37 +43,37 @@ This is a list of different open-source video games and commercial video games o
 
 ## Business and Tycoon games
 
-- **[CorsixTH](https://corsixth.com)** - Open source clone of [Theme Hospital](https://en.wikipedia.org/wiki/Theme_Hospital). [[source]](https://github.com/CorsixTH/CorsixTH)
+- **[CorsixTH](https://corsixth.com)** - Open source clone of [Theme Hospital](https://en.wikipedia.org/wiki/Theme_Hospital). [[source]](https://github.com/CorsixTH/CorsixTH) **Languages: C++**
 
-- **[Hurry Curry!](https://hurrycurry.org)** - Cooperative fast-paced multiplayer cooking game. [[source]](https://codeberg.org/hurrycurry/hurrycurry)
+- **[Hurry Curry!](https://hurrycurry.org)** - Cooperative fast-paced multiplayer cooking game. [[source]](https://codeberg.org/hurrycurry/hurrycurry) **Languages: GDScript**
 
-- **[OpenLoco](https://openloco.io)** - An open source re-implementation of [Chris Sawyer](https://en.wikipedia.org/wiki/Chris_Sawyer)'s [Locomotion](https://en.wikipedia.org/wiki/Chris_Sawyer%27s_Locomotion). [[source]](https://github.com/OpenLoco/OpenLoco)
+- **[OpenLoco](https://openloco.io)** - An open source re-implementation of [Chris Sawyer](https://en.wikipedia.org/wiki/Chris_Sawyer)'s [Locomotion](https://en.wikipedia.org/wiki/Chris_Sawyer%27s_Locomotion). [[source]](https://github.com/OpenLoco/OpenLoco) **Languages: C++**
 
-- **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of *[RollerCoaster Tycoon 2](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2)*. [[source]](https://github.com/OpenRCT2/OpenRCT2)
+- **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of *[RollerCoaster Tycoon 2](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2)*. [[source]](https://github.com/OpenRCT2/OpenRCT2) **Languages: C++**
 
-- **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon *[Transport Tycoon Deluxe](https://en.wikipedia.org/wiki/Transport_Tycoon)*. [[source]](https://github.com/OpenTTD/OpenTTD)
+- **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon *[Transport Tycoon Deluxe](https://en.wikipedia.org/wiki/Transport_Tycoon)*. [[source]](https://github.com/OpenTTD/OpenTTD) **Languages: C++**
 
 ## City-Building games
 
-- **[Akhenaten](https://dalerank.itch.io/akhenaten)** - A strategic city-building game, based on assets and gameplay mechanics from *[Pharaoh + Cleopatra](https://en.wikipedia.org/wiki/Pharaoh_(video_game))* title, where players take on the role of a ruler and mayor of ancient Egyptian civilization. [[source]](https://github.com/dalerank/Akhenaten)
+- **[Akhenaten](https://dalerank.itch.io/akhenaten)** - A strategic city-building game, based on assets and gameplay mechanics from *[Pharaoh + Cleopatra](https://en.wikipedia.org/wiki/Pharaoh_(video_game))* title, where players take on the role of a ruler and mayor of ancient Egyptian civilization. [[source]](https://github.com/dalerank/Akhenaten) **Languages: C++**
 
-- **[Citybound](https://aeplay.org/citybound)** - A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals. [[source]](https://github.com/citybound/citybound)
+- **[Citybound](https://aeplay.org/citybound)** - A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals. [[source]](https://github.com/citybound/citybound) **Languages: Rust**
 
-- **[Cytopia](https://cytopia.itch.io/cytopia)** - A free, open source retro pixel-art city building game. [[source]](https://github.com/CytopiaTeam/Cytopia)
+- **[Cytopia](https://cytopia.itch.io/cytopia)** - A free, open source retro pixel-art city building game. [[source]](https://github.com/CytopiaTeam/Cytopia) **Languages: C++**
 
-- **Egregoria** - Egregoria is an indie city builder, mostly inspired by *[Cities: Skylines](https://en.wikipedia.org/wiki/Cities:_Skylines)*. [[source]](https://github.com/Uriopass/Egregoria)
+- **Egregoria** - Egregoria is an indie city builder, mostly inspired by *[Cities: Skylines](https://en.wikipedia.org/wiki/Cities:_Skylines)*. [[source]](https://github.com/Uriopass/Egregoria) **Languages: Rust**
 
-- **[IsoCity](https://iso-city.com)** - Isometric city-building simulation game built with NextJS, TypeScript and TailwindCSS. [[source]](https://github.com/amilich/isometric-city)
+- **[IsoCity](https://iso-city.com)** - Isometric city-building simulation game built with NextJS, TypeScript and TailwindCSS. [[source]](https://github.com/amilich/isometric-city) **Languages: TypeScript**
+ 
+- **Julius** - An open source re-implementation of *[Caesar III](https://en.wikipedia.org/wiki/Caesar_III)*. [[source]](https://github.com/bvschaik/julius) **Languages: C**
 
-- **Julius** - An open source re-implementation of *[Caesar III](https://en.wikipedia.org/wiki/Caesar_III)*. [[source]](https://github.com/bvschaik/julius)
-
-- **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - A handmade Javascript port of the open-source city simulator *[Micropolis](https://mvolution.itch.io/micropolis)*. [[source]](https://github.com/graememcc/micropolisJS)
+- **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** - A handmade Javascript port of the open-source city simulator *[Micropolis](https://mvolution.itch.io/micropolis)*. [[source]](https://github.com/graememcc/micropolisJS) **Languages: JavaScript**
 
 - **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building.
 
-  - **Original:** [[source]](https://github.com/unknown-horizons/unknown-horizons) **Engine: [FIFE](https://www.fifengine.net/)** [[source]](https://github.com/fifengine/fifengine)
+  - **Original:** [[source]](https://github.com/unknown-horizons/unknown-horizons) **Engine: [FIFE](https://www.fifengine.net/)** [[source]](https://github.com/fifengine/fifengine) **Languages: Python**
 
-  - **Godot port:** [[source]](https://github.com/unknown-horizons/godot-port) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot)
+  - **Godot port:** [[source]](https://github.com/unknown-horizons/godot-port) **Engine: [Godot](https://godotengine.org)** [[source]](https://github.com/godotengine/godot) **Languages: GDScript**
 
 ## First-Person games
 
